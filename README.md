@@ -10,10 +10,10 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Alexander Aybar](https://github.com/alayb1) - `MORGAN_STATE_UNIVERSITY`
+- [Talaya Sherdon](https://github.com/Tashe11) - `MORGAN_STATE_UNIVERSITY` 
+- [Ishma'il Scott](https://github.com/issco2) - `MORGAN_STATE_UNIVERSITY` 
+- [Tyrell Green](https://github.com/TyrellGreen) - `MORGAN_STATE_UNIVERSITY`
 
 ## Description
 <!--
