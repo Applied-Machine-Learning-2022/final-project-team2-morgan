@@ -2,23 +2,27 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+# final-project:
+## Classifying Letters with Neural Networks
+
+Sponsored by:
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `MORGAN STATE UNIVERSITY`
 
 <!--
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [Alexander Aybar](https://github.com/alayb1) - `MORGAN_STATE_UNIVERSITY`
-- [Talaya Sherdon](https://github.com/Tashe11) - `MORGAN_STATE_UNIVERSITY` 
-- [Ishma'il Scott](https://github.com/issco2) - `MORGAN_STATE_UNIVERSITY` 
-- [Tyrell Green](https://github.com/TyrellGreen) - `MORGAN_STATE_UNIVERSITY`
+- [Alexander Aybar](https://github.com/alayb1) - `MORGAN STATE UNIVERSITY`
+- [Talaya Sherdon](https://github.com/Tashe11) - `MORGAN STATE UNIVERSITY` 
+- [Ishma'il Scott](https://github.com/issco2) - `MORGAN STATE UNIVERSITY` 
+- [Tyrell Green](https://github.com/TyrellGreen) - `MORGAN STATE UNIVERSITY`
 
 ## Description
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
+
 
 ## Usage instructions
 <!--
