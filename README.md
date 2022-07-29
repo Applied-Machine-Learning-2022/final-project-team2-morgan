@@ -2,18 +2,20 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+## Classifying Letters with Neural Networks
+
+Sponsored by:
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `MORGAN STATE UNIVERSITY`
 
 <!--
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [Alexander Aybar](https://github.com/alayb1) - `MORGAN_STATE_UNIVERSITY`
-- [Talaya Sherdon](https://github.com/Tashe11) - `MORGAN_STATE_UNIVERSITY` 
-- [Ishma'il Scott](https://github.com/issco2) - `MORGAN_STATE_UNIVERSITY` 
-- [Tyrell Green](https://github.com/TyrellGreen) - `MORGAN_STATE_UNIVERSITY`
+- [Alexander Aybar](https://github.com/alayb1) - `Morgan State University`
+- [Talaya Sherdon](https://github.com/Tashe11) - `Morgan State University` 
+- [Ishma'il Scott](https://github.com/issco2) - `Morgan State University` 
+- [Tyrell Green](https://github.com/TyrellGreen) - `Morgan State University`
 
 ## Description
 <!--
@@ -27,6 +29,7 @@ Load test and training data ocr10-train.txt and ocr10-test.txt. Each row in the 
 Finding out a way to teach a machine to classify any letter is a challenge we had to face. This can be used for various different things such as license identification, text to speech, and even image to text. However, we need to do this as accurately and precisely as possible. In order to achieve this we will train a model that will be able to identify letters and be even more efficient than any previous models
 
 -->
+Documents, handwritten letters, fine print, and even in photographs letters are everywhere. Furthermore they’re all in different fonts and sizes. This creates a very challenging task for us to analyze these physical letters and convert them into data. We did this by training a neural network to identify letters through OCR data files. The OCR data files contain letters that have been converted to binary classifications. In order to train this model we used the letters A to J and numbered them from 0 to 9. Then once the model is done we tested the accuracy and precision of the outcome. 
 
 ## Usage instructions
 <!--
