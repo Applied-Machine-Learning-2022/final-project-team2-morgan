@@ -17,7 +17,15 @@ Developed by:
 
 ## Description
 <!--
-Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
+Documents, handwritten letters, fine print, and even in photographs letters are everywhere. Furthermore they’re all in different fonts and sizes. This creates a very challenging task for us to analyze these physical letters and convert them into data. We did this by training a neural network to identify letters through OCR data files. The OCR data files contain letters that have been converted to binary classifications. In order to train this model we used the letters A to J and numbered them from 0 to 9. Then once the model is done we tested the accuracy and precision of the outcome.
+
+Load test and training data ocr10-train.txt and ocr10-test.txt. Each row in the dataset consists of 128 binary values corresponding to pixels of an image of a hand written letter. The last column in each row is the class of the letter (0 - 9=> “a’-“j”). Confirm that the data is being read correctly by reshaping the first row of data to a 16 × 8 array and displaying it.
+
+
+/var/folders/6x/y9skc8d51b57z20_16mlr2qh0000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui)/Screen Shot 2022-07-29 at 11.38.49 AM.png
+
+Finding out a way to teach a machine to classify any letter is a challenge we had to face. This can be used for various different things such as license identification, text to speech, and even image to text. However, we need to do this as accurately and precisely as possible. In order to achieve this we will train a model that will be able to identify letters and be even more efficient than any previous models
+
 -->
 
 ## Usage instructions
