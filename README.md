@@ -2,23 +2,26 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+## Classifying Letters with Neural Networks
+
+Sponsored by:
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `MORGAN STATE UNIVERSITY`
 
 <!--
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Alexander Aybar](https://github.com/alayb1) - `Morgan State University`
+- [Talaya Sherdon](https://github.com/Tashe11) - `Morgan State University` 
+- [Ishma'il Scott](https://github.com/issco2) - `Morgan State University` 
+- [Tyrell Green](https://github.com/TyrellGreen) - `Morgan State University`
 
 ## Description
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
+Documents, handwritten letters, fine print, and even in photographs letters are everywhere. Furthermore they’re all in different fonts and sizes. This creates a very challenging task for us to analyze these physical letters and convert them into data. We did this by training a neural network to identify letters through OCR data files. The OCR data files contain letters that have been converted to binary classifications. In order to train this model we used the letters A to J and numbered them from 0 to 9. Then once the model is done we tested the accuracy and precision of the outcome. 
 
 ## Usage instructions
 <!--
